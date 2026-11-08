@@ -2,7 +2,7 @@
 
 A REST API built with **FastAPI**, featuring JWT authentication, role-based access control, full CRUD, automated tests, Docker support, and a CI pipeline.
 
-![CI](https://github.com/YOUR-USERNAME/library-api/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Lakhkarkhan/library-api/actions/workflows/ci.yml/badge.svg)
 
 ## Features
 
